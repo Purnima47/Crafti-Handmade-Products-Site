@@ -15,6 +15,8 @@ Crafti is a responsive website designed to showcase handmade products with elega
 
 ## Demo
 
+![Crafti](https://github.com/user-attachments/assets/ddb98425-df23-4d36-b07a-48bc63315fa5)
+
 Check out the live demo: [Crafti Demo](https://crafti-by-purnima.netlify.app/)
 
 ## Technologies Used
